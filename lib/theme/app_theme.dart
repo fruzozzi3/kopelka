@@ -15,7 +15,7 @@ class AppTheme {
         displayColor: kTextPrimary,
         fontFamily: 'Roboto',
       ),
-      cardTheme: CardTheme(
+      cardTheme: CardThemeData(
         color: kCard,
         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
         elevation: 2,
